@@ -11,5 +11,4 @@
 """
 
 # Question of the day:----
-# func1() - print(function1_doc_)
-
+# func1() - print(func
