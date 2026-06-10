@@ -7,8 +7,3 @@
 "t" - text mode - default
 "b" - binary mode
 "+" - read and writing
-
-"""
-
-# Question of the day:----
-# func1() - print(func
