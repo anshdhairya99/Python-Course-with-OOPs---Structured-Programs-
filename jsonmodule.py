@@ -4,7 +4,17 @@
 
 import json
 
-data = '{"name": "varsh", "age": 25, "city": "New York"}'
+#data = '{"name": "varsh", "age": 25, "city": "New York"}'
 
-parsed = json.loads(data)
-print(parsed)
+#parsed = json.loads(data)
+#print(parsed)
+
+data2 = {
+    "channel_name":"CodeWithHarry",
+    "Cars":['BMW','Audi A8','Ferrari'],
+    "Frideg":('roti','540')
+}
+
+jscomp =json.dumps(data2)
+print(jscomp)
+
